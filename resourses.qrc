@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file alias="afterB">pics/afterSur.png</file>
+        <file alias="baseB">pics/baseSur.png</file>
+        <file alias="blankB">pics/beatSimpleF.png</file>
+        <file alias="beforeB">pics/beforSur.png</file>
+        <file alias="delBeat">pics/delbeat.png</file>
+        <file alias="delPr">pics/deleprip.png</file>
+        <file alias="delOp">pics/delOp.png</file>
+        <file alias="delSur">pics/delSur.png</file>
+        <file alias="divide">pics/divide.png</file>
+        <file alias="newOp">pics/newOp.png</file>
+        <file alias="newPr">pics/pripuskF.png</file>
+        <file alias="reverse">pics/reverse.png</file>
+        <file alias="tvr">pics/twr.png</file>
+        <file alias="ext">pics/extand.png</file>
+        <file alias="minus">pics/minus.png</file>
+        <file alias="plus">pics/Plus.png</file>
+    </qresource>
+</RCC>
